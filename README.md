@@ -3,7 +3,9 @@
 =====
 
 ## Description
-This repository analyze the story of "The Night of the Milky Way Train" by using morphological analysis (NLP).
+This repository analysis the story of "The Night of the Milky Way Train" by using morphological analysis (NLP).<br>
+It uses two tools, which are "[MeCab](https://taku910.github.io/mecab/)" and "[Janome](https://mocobeta.github.io/janome/)" . <br>
+After analyzing the text, it compares the quality of each tool.
 
 ## Environment
 
@@ -128,7 +130,7 @@ print(len(noun_list))
 # 5895
 ```
 
-### 5. Janome
+### 5. Janome
 
 #### Simple Janome
 
