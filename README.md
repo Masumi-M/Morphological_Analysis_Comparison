@@ -5,7 +5,6 @@
 ## Description
 This repository analyze the story of "The Night of the Milky Way Train" by using morphological analysis (NLP).
 
-
 ## Environment
 
 | Type          | Version               |
@@ -14,6 +13,8 @@ This repository analyze the story of "The Night of the Milky Way Train" by using
 | python        | v3.7.3                |
 | mecab-python3 | v0.996.3              |
 | janome        | v0.3.10               |
+
+## Code Explanation
 
 ### 1. Import Text
 
@@ -28,8 +29,6 @@ print(milky_original)
 #　カムパネルラが手をあげました。それから四五人手をあげました。ジョバンニも手をあげようとして、急いでそのままやめました。たしかにあれがみんな星だと、いつか雑誌で読んだのでしたが、このごろはジョバンニはまるで毎日教室でもねむく、本を読むひまも読む本もないので、なんだかどんなこともよくわからないという気持ちがするのでした。
 #　ところが先生...
 ```
-
-
 
 ### 2. Preprocessing Text
 
@@ -48,8 +47,6 @@ print(milky)
 # Output
 # ではみなさんは、そういうふうに川だと云われたり、乳の流れたあとだと云われたりしていたこのぼんやりと白いものがほんとうは何かご承知ですか。先生は、黒板に吊した大きな黒い星座の図の、上から下へ白くけぶった銀河帯のようなところを指しながら、みんなに問をかけました。カムパネルラが手をあげました。それから四五人手をあげました。ジョバンニも手をあげようとして、急いでそのままやめました。たしかにあれがみんな星だと、いつか雑誌で読んだのでしたが、このごろはジョバンニはまるで毎日教室でもねむく、本を読むひまも読む本もないので、なんだかどんなこともよくわからないという気持ちがするのでした。ところが先生は...
 ```
-
-
 
 ### 3. Create Pickle
 
