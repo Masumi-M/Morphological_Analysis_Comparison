@@ -3,7 +3,5 @@
 =====
 
 ## Description
-This repository analysis the story of "The Night of the Milky Way Train" by using morphological analysis (NLP).
-
-
+This repository analyze the story of "The Night of the Milky Way Train" by using morphological analysis (NLP).
 
